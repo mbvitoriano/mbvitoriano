@@ -25,7 +25,8 @@ I love nature (Duh...) and you'll always find me hiking somewhere ⛰️.
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading whenever possible.
-- 🎧 &nbsp; I absolutely love folk music, check out my playlist [Go Folk Yourself](https://open.spotify.com/playlist/2gHXi1b8f0mmEoSTSNDv5D?si=197f0cd030054b7a)
+- 🎧 &nbsp; I absolutely love folk music, check out my playlist
+ [Go Folk Yourself](https://open.spotify.com/playlist/2gHXi1b8f0mmEoSTSNDv5D?si=197f0cd030054b7a)
 - ⛰️ &nbsp; Hiking.
 - 🍳 &nbsp; Cooking.
 
