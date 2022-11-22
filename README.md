@@ -80,8 +80,3 @@ I love nature (Duh...) and you'll always find me hiking somewhere ⛰️.
 
 #
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
