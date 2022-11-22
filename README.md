@@ -17,7 +17,7 @@ I love nature (Duh...) and you'll always find me hiking somewhere ⛰️.
 
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m currently learning Full Stack Development with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc..
+- 🚀 &nbsp; I’m currently learning Full Stack Development with Nodejs, Express, React, Graphql, Mongodb, Javascript, etc..
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mbVitoriano).
 - 📝 &nbsp; Checkout my [Linkedin Page](https://linkedin.com/in/mbVitoriano).
 
