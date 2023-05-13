@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp;
 
-🌱 I'm a Biologist (Yep, you read it right...) graduated from Lavras Federal University 🏛 in Lavras, Minas Gerais, Brazil 🇧🇷.
+🌱 I'm a Biologist (Yes, you read it right...) graduated from Lavras Federal University 🏛 in Lavras, Minas Gerais, Brazil 🇧🇷.
 
 👨🏻‍💻 And also a graduate in Information Systems from Pontifical Catholic University 🏛 of Minas Gerais, Brazil 🇧🇷. 
 
