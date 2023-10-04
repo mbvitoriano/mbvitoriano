@@ -11,9 +11,7 @@
 
 I'm a passionate learner who's always willing to learn something 💡. 
 
-I love nature (Duh...) and you'll always find me hiking somewhere ⛰️.
-
-<img align="right" height="250" width="375" alt="" src="2n0H.gif" />
+I love nature, and you'll always find me hiking somewhere ⛰️.
 
 ### Talking about Personal Stuffs:
 
